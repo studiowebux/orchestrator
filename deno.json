@@ -1,0 +1,7 @@
+{
+  "name": "@studiowebux/orchestrator",
+  "version": "1.0.0",
+  "imports": {
+    "hono": "npm:hono@^4.10.6"
+  }
+}
